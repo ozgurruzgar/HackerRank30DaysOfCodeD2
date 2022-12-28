@@ -1,4 +1,4 @@
-# HackerRank 30 Days Of Code Day 2: Operators
+# HackerRank 30 Days Of Code Day 2:
 
 [EN] HackerRank 30 Days Of Code Day 2: Operators Solution in C# 
 
